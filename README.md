@@ -6,7 +6,7 @@
 
 - Identify problems, such as duplicates, not standardised data, null or blank values, and validation of columns or raws.
 
-## Cleaning data step-by-step
+### Cleaning data step-by-step
 
 1. Remove duplicates
 2. Standardise the data
